@@ -1,0 +1,5 @@
+numpy>=1.22.0
+scipy
+ipython>=7.16.1
+notebook
+torch>=2.5.0
